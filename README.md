@@ -1,4 +1,5 @@
-# Mr. Poole - A Jekyll / Grunt / Compass Template
+# Mr. Poole
+## A Jekyll / Grunt / Compass Template
 
 > Create a Jekyll site that using Grunt and Compass to do things.
 
