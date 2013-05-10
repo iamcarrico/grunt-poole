@@ -1,0 +1,5 @@
+name: Your New Jekyll Site
+pygments: true
+permalink: pretty
+exclude: [CONTRIBUTING.md, README.md, sass, config.rb, package.json, Gruntfile.js, node_modules, Gemfile, Gemfile.lock]
+development: false
